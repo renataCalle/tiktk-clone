@@ -2,6 +2,7 @@
 const nextConfig = {
   typescript:{ 
     ignoreBuildErrors: true,
+    ignoreDeploymentErrors: true,
   },
   reactStrictMode: true,
   images: {
