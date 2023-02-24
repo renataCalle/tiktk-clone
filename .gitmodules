@@ -1,0 +1,3 @@
+[submodule "sanity-backend"]
+	path = sanity-backend
+	url = https://github.com/renataCalle/sanity-backend.git
